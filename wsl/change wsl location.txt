@@ -1,0 +1,6 @@
+# list wsl images
+wsl --list -v
+
+wsl --export Ubuntu-20.04 "D:\UBUNTU-WSL\Ubuntu-20.04.tar"
+wsl --unregister Ubuntu-20.04
+wsl --import Ubuntu-20.04 "D:\UBUNTU-WSL" "D:\UBUNTU-WSL\Ubuntu-20.04.tar" --version 2
