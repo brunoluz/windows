@@ -1,0 +1,8 @@
+***set pc to high performance
+powercfg -setactive [guid]
+
+*** list power plans
+powercfg -list
+
+*** get ative scheme
+powercfg -getactivescheme
