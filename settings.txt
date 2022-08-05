@@ -2,6 +2,7 @@
 System -> Multitasking -> (disable) When I snap a window, show what I can snap next to it.
 System -> Multitasking -> Alt + Tab -> Open Windows Only.
 Personalization -> Taskbar -> Taskbar behaviors -> (disable) Show badges (unread message counter) on taskbar apps.
+Personalization -> Taskbar -> Taskbar behaviors -> When using multiple displays, show my taskbar apps on -> Taskbar where windows is open.
 Personalization -> Start -> (disable) Show recently added apps.
 Personalization -> Start -> (disable) Show recently opened in Start, Jump Lists, and File Explorer.
 Accounts -> Windows Backup -> Sync your settings -> (disable) Sync settings.
