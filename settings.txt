@@ -1,6 +1,9 @@
 # settings
 System -> Multitasking -> (disable) When I snap a window, show what I can snap next to it.
 System -> Multitasking -> Alt + Tab -> Open Windows Only.
+System -> Notifications -> (disable) Show me the Windows welcome experience after updates and occasionally when I sign in to highlight what's new and suggested.
+System -> Notifications -> (disable) Offer suggestions on how I can set up my device.
+System -> Notifications -> (disable) Get tips and suggestions when I use Windows.
 Personalization -> Taskbar -> Taskbar behaviors -> (disable) Show badges (unread message counter) on taskbar apps.
 Personalization -> Taskbar -> Taskbar behaviors -> When using multiple displays, show my taskbar apps on -> Taskbar where windows is open.
 Personalization -> Start -> (disable) Show recently added apps.
