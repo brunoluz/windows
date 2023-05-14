@@ -9,3 +9,5 @@ Personalization -> Taskbar -> Taskbar behaviors -> When using multiple displays,
 Personalization -> Start -> (disable) Show recently added apps.
 Personalization -> Start -> (disable) Show recently opened in Start, Jump Lists, and File Explorer.
 Accounts -> Windows Backup -> Sync your settings -> (disable) Sync settings.
+Time & Language -> (disable) Autocorrect misspelled words
+Time & Language -> (disable) Highlight misspelled words
