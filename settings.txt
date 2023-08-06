@@ -17,4 +17,5 @@ Accounts -> Windows Backup -> Remember my preferences -> (disable) Langujage pre
 Accounts -> Windows Backup -> Remember my preferences -> (disable) Other Windows settings.
 Time & Language -> Typing -> (disable) Autocorrect misspelled words
 Time & Language -> Typing -> (disable) Highlight misspelled words
+Time & Language -> Typing -> (enable) Use the desktop language bar when it's available.
 Accessibility -> Keybard -> Sticky keys -> (disable) Keyboard shortcut for Sticky keys.
