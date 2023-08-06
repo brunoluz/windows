@@ -7,7 +7,14 @@ System -> Notifications -> (disable) Get tips and suggestions when I use Windows
 Personalization -> Taskbar -> Taskbar behaviors -> (disable) Show badges (unread message counter) on taskbar apps.
 Personalization -> Taskbar -> Taskbar behaviors -> When using multiple displays, show my taskbar apps on -> Taskbar where windows is open.
 Personalization -> Start -> (disable) Show recently added apps.
+Personalization -> Start -> (disable) Show most used apps.
 Personalization -> Start -> (disable) Show recently opened in Start, Jump Lists, and File Explorer.
+Personalization -> Start -> (disable) Show recommendations for tips, shortcuts, new apps, and more.
 Accounts -> Windows Backup -> Sync your settings -> (disable) Sync settings.
-Time & Language -> (disable) Autocorrect misspelled words
-Time & Language -> (disable) Highlight misspelled words
+Accounts -> Windows Backup -> Remember my apps.
+Accounts -> Windows Backup -> Remember my preferences -> (disable) Accessibility
+Accounts -> Windows Backup -> Remember my preferences -> (disable) Langujage preferences
+Accounts -> Windows Backup -> Remember my preferences -> (disable) Other Windows settings.
+Time & Language -> Typing -> (disable) Autocorrect misspelled words
+Time & Language -> Typing -> (disable) Highlight misspelled words
+Accessibility -> Keybard -> Sticky keys -> (disable) Keyboard shortcut for Sticky keys.
