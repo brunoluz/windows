@@ -1,21 +1,17 @@
 # settings
-System -> Multitasking -> (disable) When I snap a window, show what I can snap next to it.
-System -> Multitasking -> Alt + Tab -> Open Windows Only.
-System -> Notifications -> (disable) Show me the Windows welcome experience after updates and occasionally when I sign in to highlight what's new and suggested.
-System -> Notifications -> (disable) Offer suggestions on how I can set up my device.
-System -> Notifications -> (disable) Get tips and suggestions when I use Windows.
-Personalization -> Taskbar -> Taskbar behaviors -> (disable) Show badges (unread message counter) on taskbar apps.
+System -> Multitasking -> (disable) When I snap a window, suggest what I can snap next to it.
+System -> Multitasking -> (Don't show tabs) Show tabs from apps when snapping or pressing Alt + Tab.
+System -> Notifications -> Additional Settings -> (disable) Show the Windows welcome experience after updates and when signed in to show what's new and suggested.
+System -> Notifications -> Additional Settings -> (disable) Suggest ways to get the most out of Windows and finish setting up this device.
+System -> Notifications -> Additional Settings -> (disable) Get tips and suggestions when using Windows.
+Personalization -> Taskbar -> Taskbar behaviors -> (disable) Show badges on taskbar apps.
 Personalization -> Taskbar -> Taskbar behaviors -> When using multiple displays, show my taskbar apps on -> Taskbar where windows is open.
 Personalization -> Start -> (disable) Show recently added apps.
 Personalization -> Start -> (disable) Show most used apps.
 Personalization -> Start -> (disable) Show recently opened in Start, Jump Lists, and File Explorer.
-Personalization -> Start -> (disable) Show recommendations for tips, shortcuts, new apps, and more.
-Accounts -> Windows Backup -> Sync your settings -> (disable) Sync settings.
-Accounts -> Windows Backup -> Remember my apps.
-Accounts -> Windows Backup -> Remember my preferences -> (disable) Accessibility
-Accounts -> Windows Backup -> Remember my preferences -> (disable) Langujage preferences
-Accounts -> Windows Backup -> Remember my preferences -> (disable) Other Windows settings.
+Accounts -> Windows Backup -> (disable) Remember my apps.
+Accounts -> Windows Backup -> (disable) Remember my preferences
 Time & Language -> Typing -> (disable) Autocorrect misspelled words
 Time & Language -> Typing -> (disable) Highlight misspelled words
-Time & Language -> Typing -> (enable) Use the desktop language bar when it's available.
+Time & Language -> Typing -> Advanced Keyboard Settings -> (enable) Use the desktop language bar when it's available.
 Accessibility -> Keybard -> Sticky keys -> (disable) Keyboard shortcut for Sticky keys.
