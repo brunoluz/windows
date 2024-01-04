@@ -9,6 +9,7 @@ Personalization -> Taskbar -> Taskbar behaviors -> When using multiple displays,
 Personalization -> Start -> (disable) Show recently added apps.
 Personalization -> Start -> (disable) Show most used apps.
 Personalization -> Start -> (disable) Show recently opened in Start, Jump Lists, and File Explorer.
+Personalization -> Start -> (disable) Show recommendations for tips, shortcuts, new apps and more.
 Accounts -> Windows Backup -> (disable) Remember my apps.
 Accounts -> Windows Backup -> (disable) Remember my preferences
 Time & Language -> Typing -> (disable) Autocorrect misspelled words
