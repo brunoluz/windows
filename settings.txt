@@ -16,4 +16,4 @@ Accounts -> Windows Backup -> (disable) Remember my preferences
 Time & Language -> Typing -> (disable) Autocorrect misspelled words
 Time & Language -> Typing -> (disable) Highlight misspelled words
 Time & Language -> Typing -> Advanced Keyboard Settings -> (enable) Use the desktop language bar when it's available.
-Accessibility -> Keybard -> Sticky keys -> (disable) Keyboard shortcut for Sticky keys.
+Accessibility -> Keyboard -> Sticky keys -> (disable) Keyboard shortcut for Sticky keys.
