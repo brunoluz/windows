@@ -12,6 +12,8 @@ Personalization -> Start -> (disable) Show recently opened in Start, Jump Lists,
 Personalization -> Start -> (disable) Show recommendations for tips, shortcuts, new apps and more.
 Personalization -> Start -> (disable) Show account related notifications occasionally in Start.
 Personalization -> Lock Screen -> (none) Lock screen status.
+Personalization -> Lock Screen -> (Picture) Personalize your lock screen.
+Personalization -> Lock Screen -> (disable) Get fun facts, tips, tricks, and more on your lock screen.
 Accounts -> Windows Backup -> (disable) Remember my apps.
 Accounts -> Windows Backup -> (disable) Remember my preferences
 Time & Language -> Typing -> (disable) Autocorrect misspelled words
