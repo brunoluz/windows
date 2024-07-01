@@ -4,6 +4,7 @@ System -> Multitasking -> (Don't show tabs) Show tabs from apps when snapping or
 System -> Notifications -> Additional Settings -> (disable) Show the Windows welcome experience after updates and when signed in to show what's new and suggested.
 System -> Notifications -> Additional Settings -> (disable) Suggest ways to get the most out of Windows and finish setting up this device.
 System -> Notifications -> Additional Settings -> (disable) Get tips and suggestions when using Windows.
+Personalization -> Taskbar -> Taskbar behaviors -> (Left) Taskbar alignment.
 Personalization -> Taskbar -> Taskbar behaviors -> (disable) Show badges on taskbar apps.
 Personalization -> Taskbar -> Taskbar behaviors -> When using multiple displays, show my taskbar apps on -> Taskbar where windows is open.
 Personalization -> Start -> (disable) Show recently added apps.
