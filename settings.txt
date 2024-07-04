@@ -7,6 +7,7 @@ System -> Notifications -> Additional Settings -> (disable) Get tips and suggest
 Personalization -> Taskbar -> Taskbar behaviors -> (Left) Taskbar alignment.
 Personalization -> Taskbar -> Taskbar behaviors -> (disable) Show badges on taskbar apps.
 Personalization -> Taskbar -> Taskbar behaviors -> When using multiple displays, show my taskbar apps on -> Taskbar where windows is open.
+Personalization -> Start -> (More pins) Layout
 Personalization -> Start -> (disable) Show recently added apps.
 Personalization -> Start -> (disable) Show most used apps.
 Personalization -> Start -> (disable) Show recently opened in Start, Jump Lists, and File Explorer.
