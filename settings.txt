@@ -30,3 +30,7 @@ Privacy & Security -> General -> (disable) Show me notifications in the Settings
 Privacy & Security -> Activity History -> (disable) Store my activity history on this device.
 Privacy & Security -> Diagnostics & feedback -> (Never) Feedback frequency.
 
+[regedit]
+# Disable EDGE from asking to be default browser
+HKEY_CURRENT_USER\Software\Policies\Microsoft\Edge\ -> Create new 32bit DWORD named DefaultBrowserSettingEnabled and set it value to 0.
+
