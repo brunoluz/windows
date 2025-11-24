@@ -23,14 +23,23 @@ Time & Language -> Typing -> (disable) Highlight misspelled words
 Time & Language -> Typing -> Advanced Keyboard Settings -> (enable) Use the desktop language bar when it's available.
 Accessibility -> Keyboard -> Sticky keys -> (disable) Keyboard shortcut for Sticky keys.
 Accessibility -> Mouse pointer and touch -> Size -> 3
-Privacy & Security -> General -> (disable) Let websites show me locally relevant content by accessing my language list.
-Privacy & Security -> General -> (disable) Let Windows improve Start and search results by tracking app launches.
-Privacy & Security -> General -> (disable) Show me suggested content in the Settings app.
-Privacy & Security -> General -> (disable) Show me notifications in the Settings app.
-Privacy & Security -> Activity History -> (disable) Store my activity history on this device.
+Privacy & Security -> Recommendations & offers -> (disable) Personalized offers.
+Privacy & Security -> Recommendations & offers -> (disable) Allow websites to access my language list.
+Privacy & Security -> Recommendations & offers -> (disable) Improve Start and search results.
+Privacy & Security -> Recommendations & offers -> (disable) Show notifications in Settings.
+Privacy & Security -> Recommendations & offers -> (disable) Recommendations and offers in Settings.
+Privacy & Security -> Recommendations & offers -> (disable) Advertising ID.
+Privacy & Security -> Search -> (disable) Search history.
+Privacy & Security -> Search -> (disable) Show search highlights.
+Privacy & Security -> Search -> Search my accounts -> (disable) Microsoft account.
+Privacy & Security -> Search -> Search my accounts -> (disable) Work or School account.
+Privacy & Security -> Search -> Find my files -> (select) Classic.
 Privacy & Security -> Diagnostics & feedback -> (Never) Feedback frequency.
+Privacy & Security -> Diagnostics & feedback -> (disable) Send optional diagnostic data.
+Windows Update -> Advanced options -> Delivery Optimization -> (disable) Allow downloads from other devices.
 
 [regedit]
 # Disable EDGE from asking to be default browser
 HKEY_CURRENT_USER\Software\Policies\Microsoft\Edge\ -> Create new 32bit DWORD named DefaultBrowserSettingEnabled and set it value to 0.
+
 
