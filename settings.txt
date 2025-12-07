@@ -10,32 +10,35 @@ Personalization -> Taskbar -> Taskbar behaviors -> When using multiple displays,
 Personalization -> Start -> (More pins) Layout
 Personalization -> Start -> (disable) Show recently added apps.
 Personalization -> Start -> (disable) Show most used apps.
-Personalization -> Start -> (disable) Show recently opened in Start, Jump Lists, and File Explorer.
+Personalization -> Start -> (disable) Show recommended files in Start, recent files in File Explorer, and items in Jump Lists.
 Personalization -> Start -> (disable) Show recommendations for tips, shortcuts, new apps and more.
-Personalization -> Start -> (disable) Show account related notifications occasionally in Start.
+Personalization -> Start -> (disable) Show account related notifications.
 Personalization -> Lock Screen -> (none) Lock screen status.
 Personalization -> Lock Screen -> (Picture) Personalize your lock screen.
 Personalization -> Lock Screen -> (disable) Get fun facts, tips, tricks, and more on your lock screen.
 Accounts -> Windows Backup -> (disable) Remember my apps.
 Accounts -> Windows Backup -> (disable) Remember my preferences
-Time & Language -> Typing -> (disable) Autocorrect misspelled words
-Time & Language -> Typing -> (disable) Highlight misspelled words
-Time & Language -> Typing -> Advanced Keyboard Settings -> (enable) Use the desktop language bar when it's available.
-Accessibility -> Keyboard -> Sticky keys -> (disable) Keyboard shortcut for Sticky keys.
+Time & Language -> Typing -> (disable) Show text suggestions when typing on the physical keyboard.
+Time & Language -> Typing -> (disable) Multilingual text suggestions.
+Time & Language -> Typing -> (disable) Autocorrect misspelled words.
+Time & Language -> Typing -> (disable) Highlight misspelled words.
+Time & Language -> Typing -> Typing insights -> (disable) Typing insights.
+Accessibility -> Keyboard -> (disable) Sticky keys.
+Accessibility -> Keyboard -> (disable) Filter keys.
+Accessibility -> Keyboard -> (disable) Toggle keys.
 Accessibility -> Mouse pointer and touch -> Size -> 3
-Privacy & Security -> Recommendations & offers -> (disable) Personalized offers.
-Privacy & Security -> Recommendations & offers -> (disable) Allow websites to access my language list.
-Privacy & Security -> Recommendations & offers -> (disable) Improve Start and search results.
-Privacy & Security -> Recommendations & offers -> (disable) Show notifications in Settings.
-Privacy & Security -> Recommendations & offers -> (disable) Recommendations and offers in Settings.
-Privacy & Security -> Recommendations & offers -> (disable) Advertising ID.
+Privacy & Security -> General -> (disable) Let apps show me personalized ads by using my advertisingID.
+Privacy & Security -> General -> (disable) Let websites show me locally relevant content by accessing my language list.
+Privacy & Security -> General -> (disable) Let Windows improve Start and search results by tracking app launches.
+Privacy & Security -> General -> (disable) Show me suggested content in Settings app.
+Privacy & Security -> General -> (disable) Show me notification in the Settings app.
 Privacy & Security -> Search -> (disable) Search history.
 Privacy & Security -> Search -> (disable) Show search highlights.
 Privacy & Security -> Search -> Search my accounts -> (disable) Microsoft account.
 Privacy & Security -> Search -> Search my accounts -> (disable) Work or School account.
 Privacy & Security -> Search -> Find my files -> (select) Classic.
-Privacy & Security -> Diagnostics & feedback -> (Never) Feedback frequency.
 Privacy & Security -> Diagnostics & feedback -> (disable) Send optional diagnostic data.
+Privacy & Security -> Diagnostics & feedback -> (Never) Feedback frequency.
 Windows Update -> Advanced options -> Delivery Optimization -> (disable) Allow downloads from other devices.
 
 [regedit]
@@ -44,6 +47,7 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Edge\ -> Create new 32bit DWORD na
 
 # Bring back old context menu on mouse right click (Run on terminal - https://learn.microsoft.com/en-us/answers/questions/2287432/(article)-restore-old-right-click-context-menu-in)
 https://learn.microsoft.com/en-us/answers/questions/2287432/(article)-restore-old-right-click-context-menu-in
+
 
 
 
