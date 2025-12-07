@@ -46,7 +46,8 @@ Windows Update -> Advanced options -> Delivery Optimization -> (disable) Allow d
 HKEY_CURRENT_USER\Software\Policies\Microsoft\Edge\ -> Create new 32bit DWORD named DefaultBrowserSettingEnabled and set it value to 0.
 
 # Bring back old context menu on mouse right click (Run on terminal - https://learn.microsoft.com/en-us/answers/questions/2287432/(article)-restore-old-right-click-context-menu-in)
-https://learn.microsoft.com/en-us/answers/questions/2287432/(article)-restore-old-right-click-context-menu-in
+reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
+
 
 
 
